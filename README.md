@@ -41,19 +41,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
