@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -93,4 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
