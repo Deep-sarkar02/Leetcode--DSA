@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
