@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 ## Stack
 |  |
 | ------- |
