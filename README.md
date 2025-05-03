@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
 | [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
