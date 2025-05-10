@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1677-matrix-diagonal-sum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Union Find
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
