@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
