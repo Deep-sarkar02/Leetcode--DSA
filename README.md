@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
