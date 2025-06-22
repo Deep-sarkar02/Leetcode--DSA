@@ -25,6 +25,7 @@ class Solution {
                 temp = temp.next;
                 l++;
             }
+            
             // now we have got the lenght
             // now we need to find out the actual rotation
             k = k%l;
