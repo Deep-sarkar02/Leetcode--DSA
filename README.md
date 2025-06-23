@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
