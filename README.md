@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0057-insert-interval) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Union Find
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0052-n-queens-ii) |
 ## Design
 |  |
