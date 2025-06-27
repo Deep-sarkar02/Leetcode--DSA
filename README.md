@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
 ## Recursion
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
