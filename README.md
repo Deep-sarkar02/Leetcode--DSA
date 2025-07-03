@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
@@ -90,18 +91,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Divide and Conquer
