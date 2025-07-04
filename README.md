@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0162-find-peak-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0141-linked-list-cycle) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
@@ -113,12 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
