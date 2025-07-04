@@ -15,19 +15,16 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        // base case:=
         if(root == null)
         {
             return root;
         }
-        // now go to teh left 
-        invertTree(root.left);
-        // call the right
-        invertTree(root.right);
-        // if the base cals not match then 
-        TreeNode temp = root.left;
-        root.left = root.right;
-        root.right = temp;
+        // then work
+        TreeNode left = invertTree(root.left);
+        TreeNode right = invertTree(root.right);
+        // now exchange
+        root.left = right;
+        root.right = left;
         return root;
         
     }
