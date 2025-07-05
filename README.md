@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0226-invert-binary-tree) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
