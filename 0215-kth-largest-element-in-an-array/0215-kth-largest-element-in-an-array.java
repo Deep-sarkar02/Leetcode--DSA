@@ -8,7 +8,7 @@ class Solution {
            
 
         }
-        System.out.println(q);
+        //System.out.println(q);
         
           //System.out.println(q.poll());
         int c = 0;
