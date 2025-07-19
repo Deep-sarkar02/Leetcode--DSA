@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
+| [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Union Find
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -282,8 +286,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
