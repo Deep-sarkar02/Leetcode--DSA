@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0739-daily-temperatures) |
 ## Backtracking
 |  |
 | ------- |
