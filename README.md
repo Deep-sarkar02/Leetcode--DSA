@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
