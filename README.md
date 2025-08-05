@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0739-daily-temperatures) |
 | [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Union Find
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Tree
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Prefix Sum
 |  |
