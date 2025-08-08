@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
+| [1250-longest-common-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1250-longest-common-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1250-longest-common-subsequence) |
 ## Tree
 |  |
 | ------- |
