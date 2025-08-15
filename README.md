@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0394-decode-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0300-longest-increasing-subsequence) |
