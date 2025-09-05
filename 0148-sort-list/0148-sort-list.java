@@ -26,12 +26,11 @@ class Solution {
         temp = head;
         while(temp != null)
         {
-            if(i < a.size())
-            {
+           
                 temp.val = a.get(i);
                 i++;
                 temp = temp.next;
-            }
+            
             
         }
         return head;
