@@ -13,29 +13,50 @@
  *     }
  * }
  */
-class Solution {
-    public int height(TreeNode  root)
+class info // this class will be used in the function
+{ 
+    // 2 var
+    int diam;
+    int ht;
+
+    info(int d , int h)
     {
-        // base 
-        if(root == null)
-        {
-            return 0;
-        }
-        // for all the case
-        int lh = height(root.left);
-        int rh = height(root.right);
-        // now we will return the max of this
-        return Math.max(lh , rh )+1;
+        this.diam = d;
+        this.ht = h;
     }
-    public int diameterOfBinaryTree(TreeNode root) {
+}
+
+class Solution {
+    // now we will find the diameter -- O(n)
+    public static info dim(TreeNode root)
+    {
+        // base case
         if(root == null)
         {
-            return 0;
+            return new info(0, 0);
         }
-         int leftdim  = diameterOfBinaryTree(root.left);
-         int rightdim = diameterOfBinaryTree(root.right);
-         int dim_on_root = height(root.left) + height(root.right);
-         return Math.max(dim_on_root , Math.max(leftdim , rightdim));
+
+        // get the info of the left and the right
+        info lf = dim(root.left);
+        info rg = dim(root.right);
+
+        // now calculate the diameter
+        // fidn the self diamter
+        int sd = lf.ht + rg.ht+1;
+
+        // get the diameter
+        int diam = Math.max(sd, Math.max(lf.diam, rg.diam ) );
+        // also get the height
+        int ht = Math.max(lf.ht , rg.ht)+1;
+
+        // now return the ht and the diam
+        return new info(diam, ht);
+        
+    }
+    
+    public int diameterOfBinaryTree(TreeNode root) {
+        
+         return (dim(root).diam)-1;
         
     }
 }
