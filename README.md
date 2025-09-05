@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 ## Divide and Conquer
@@ -394,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
