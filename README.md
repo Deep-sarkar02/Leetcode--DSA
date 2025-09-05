@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0647-palindromic-substrings) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0148-sort-list) |
 ## Queue
 |  |
 | ------- |
