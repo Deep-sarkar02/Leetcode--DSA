@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
