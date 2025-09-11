@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0572-subtree-of-another-tree) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 ## Design
 |  |
 | ------- |
