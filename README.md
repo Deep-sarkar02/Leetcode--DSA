@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1250-longest-common-subsequence) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
