@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0229-majority-element-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0229-majority-element-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Monotonic Stack
 |  |
