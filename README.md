@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
+| [0670-maximum-swap](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0670-maximum-swap](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0670-maximum-swap) |
 | [1285-balance-a-binary-search-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1285-balance-a-binary-search-tree) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
