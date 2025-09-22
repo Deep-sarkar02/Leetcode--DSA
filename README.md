@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0394-decode-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0948-sort-an-array) |
