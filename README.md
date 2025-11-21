@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0124-binary-tree-maximum-path-sum) |
