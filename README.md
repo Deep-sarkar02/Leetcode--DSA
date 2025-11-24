@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0146-lru-cache) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -514,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0948-sort-an-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
