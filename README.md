@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
 | [1319-unique-number-of-occurrences](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1319-unique-number-of-occurrences) |
 ## String
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0647-palindromic-substrings) |
+| [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Sorting
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0948-sort-an-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1250-longest-common-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Tree
@@ -378,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
