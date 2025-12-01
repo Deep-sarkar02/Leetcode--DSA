@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0344-reverse-string) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -533,4 +536,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
