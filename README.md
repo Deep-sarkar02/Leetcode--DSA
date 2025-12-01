@@ -537,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
