@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1677-matrix-diagonal-sum](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1677-matrix-diagonal-sum) |
+| [2057-smallest-index-with-equal-value](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 ## Hash Table
