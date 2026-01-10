@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1250-longest-common-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1768-merge-strings-alternately](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1048-longest-string-chain) |
+| [1768-merge-strings-alternately](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
