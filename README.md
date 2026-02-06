@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0091-decode-ways) |
