@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0507-perfect-number) |
 | [0670-maximum-swap](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/0670-maximum-swap) |
 | [1014-k-closest-points-to-origin](https://github.com/Deep-sarkar02/Leetcode--DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
